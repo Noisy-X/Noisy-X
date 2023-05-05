@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Noisy-X
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning UE5,Python,matlab
-- 💞️ I’m looking to collaborate on UE5
+- 👀 I’m interested in C++,...
+- 🌱 I’m currently learning UE5,C++,Python,Matlab,...
+- 💞️ I’m looking to collaborate on UE5,...
 - 📫 How to reach me :emagremmus@qq.com
 
 <!---
